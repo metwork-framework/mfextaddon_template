@@ -19,4 +19,4 @@ toml==0.10.2
 tomli==2.0.1
 trove-classifiers==2023.8.7
 typing_extensions==4.8.0
-zipp==3.16.2
+zipp==3.19.1
