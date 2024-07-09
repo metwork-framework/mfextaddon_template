@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | [asgiref](https://github.com/django/asgiref/) | 3.8.1 | python3_example |
 | [calver](https://github.com/di/calver) | 2022.6.26 | python3_example |
-| [certifi](https://github.com/certifi/python-certifi) | 2023.7.22 | python3_example |
+| [certifi](https://github.com/certifi/python-certifi) | 2024.7.4 | python3_example |
 | [distlib](https://github.com/pypa/distlib) | 0.3.7 | python3_example |
 | [distro](https://github.com/python-distro/distro) | 1.8.0 | python3_example |
 | [Django](https://www.djangoproject.com/) | 4.2.11 | python3_example |
