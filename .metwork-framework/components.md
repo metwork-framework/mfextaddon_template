@@ -22,6 +22,6 @@
 | [tomli](https://pypi.org/project/tomli) | 2.0.1 | python3_example |
 | [trove-classifiers](https://github.com/pypa/trove-classifiers) | 2023.8.7 | python3_example |
 | [typing_extensions](https://pypi.org/project/typing_extensions) | 4.8.0 | python3_example |
-| [zipp](https://github.com/jaraco/zipp) | 3.16.2 | python3_example |
+| [zipp](https://github.com/jaraco/zipp) | 3.19.2 | python3_example |
 
 *(23 components)*
