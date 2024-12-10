@@ -9,5 +9,6 @@
 - upgrade to Django 5
 - bump to Django 5.0.8 to fix CVEs
 - bump to Django 5.0.9 to fix CVEs
+- bump django to 5.10.10 (CVE-2024-53908)
 
 
