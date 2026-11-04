@@ -18,5 +18,6 @@
 - bump Django from 5.2.12 to 5.2.13 (CVEs)
 - bump Django to 5.2.14 (fix moderate and low CVE)
 - bump sqlparse to 0.6.0 (fix 3 high CVE)
+- bumlp Django from 5.2.16 to 5.2.17
 
 
